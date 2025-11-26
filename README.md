@@ -26,6 +26,6 @@ Key Findings
 
 Representation: The nursing workforce remains predominantly White (68.2%), though Black (11.6%) and Asian (9.3%) representation is significant compared to other professional sectors.
 
-The "Reverse" Wage Gap: Analysis reveals that Asian Registered Nurses earn the highest average annual wage (~$82,600), significantly out-earning White nurses (~$60,900). Black nurses also show a wage premium over White nurses.
+The "Reverse" Wage Gap: Analysis reveals that Asian Registered Nurses earn the highest average annual wage of about $82,600, significantly out-earning White nurses, who earn only an average of $60,900. Black nurses also show a wage premium over White nurses.
 
 Interpretation: These disparities likely reflect geographic sorting, where minority nurses are disproportionately employed in high-cost-of-living urban centers (e.g., NYC, California) where nominal wages are higher.
